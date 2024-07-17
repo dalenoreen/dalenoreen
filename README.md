@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dalenoreen
 - 👀 I’m interested in Java, HTML, C++ 
 - 🌱 I’m currently learning Java 
-- 📫 How to reach me Email me { discarnoreendlae4@gmail.com }
+- 📫 How to reach me Email me { discarnoreendale4@gmail.com }
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: "i'm Introvert"
 
