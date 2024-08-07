@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dalenoreen
-- 👀 I’m interested in Java, HTML, C++ 
+- 👀 I’m interested in Java, HTML, C++,CSS
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me Email me { discarnoreendale4@gmail.com }
 - 😄 Pronouns: She/Her
